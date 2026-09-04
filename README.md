@@ -33,9 +33,9 @@ Upload a dataset, ask a question in plain English, and watch three specialized a
 
 | | |
 |---|---|
-| ![Login screen](screenshots/login.png) | ![SQL agent tool call](screenshots/agent-sql.png)
-| ![SQL agent tool call with self correction](screenshots/agent-sql2.png) |
-| ![Self-correction and verdict](screenshots/agent-verdict.png) | ![Final approved report](screenshots/final-report.png) | |
+| ![Login screen](screenshots/login.png) | ![SQL agent tool call](screenshots/agent-sql.png) |
+| ![SQL agent tool call, continued](screenshots/agent-sql2.png) | ![Self-correction and verdict](screenshots/agent-verdict.png) |
+| ![Final approved report](screenshots/final-report.png) | |
 
 ---
 
